@@ -41,7 +41,7 @@ proxies:
   - 
     name: my
     type: trojan
-    server: haiwai.ccc7.vip
+    server: example.com
     port: 443
     password: ea8fe7f3
     alpn:
